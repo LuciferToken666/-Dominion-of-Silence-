@@ -22,10 +22,10 @@ Explore the artifacts of the Ω ecosystem. Each piece is a manifestation of the 
   <img src="https://raw.githubusercontent.com/LuciferToken666/-Dominion-of-Silence-/refs/heads/main/IMG_2078.png" width="45%" alt="LOOK II">
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/LuciferToken666/-Dominion-of-Silence-/refs/heads/main/IMG_2078.png" width="45%" alt="LOOK III">
-  <img src="URL_รูป_LOOK_4" width="45%" alt="LOOK IV">
+  <img src="https://raw.githubusercontent.com/LuciferToken666/-Dominion-of-Silence-/refs/heads/main/IMG_2076.png" width="45%" alt="LOOK III">
 </p>
-
+<p align="center">
+   <img
 ---
 
 ## 🛠️ Technical Infrastructure
