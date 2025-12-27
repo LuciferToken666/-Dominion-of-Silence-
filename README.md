@@ -1,40 +1,52 @@
-# -Dominion-of-Silence-
-# 🏛️ Ω LUCIFER NEXUS | DISTRICT Ω
+# 🏛️ -Dominion-of-Silence-
+### The Visionary AI-Driven Fashion Protocol | Ω LUCIFER NEXUS
 
-> **"Dominion is established in the absence of noise."**
-> *อำนาจที่ไม่อธิบายตัวเอง คืออำนาจที่ทรงพลังที่สุด*
-
-Welcome to the digital forge of **Blacksmith Lucifer Nexus**. This is not just a repository; it is the architectural blueprint of a new era in High-End Fashion.
-
----
-
-### 🌑 CURRENT PROJECT: COLLECTION 001
-**Status:** `DOMINION OF SILENCE` — *Released on meb*
-**Concept:** Authority through precision and control.
-
-- **Look I:** The Warden (Opening Authority)
-- **Look II:** Shadow-Pulse (The Viral Masterpiece)
-- **Look III:** The Null Body (Ritual Garment)
-- **Look IV:** Ω Frame (Technical Proof)
-- **Look V:** The Quiet Empress (Final Silence)
+<p align="center">
+  <img src="URL_รูปหน้าปก_คอลเลกชัน" width="800" alt="Ω Dominion of Silence Header">
+</p>
 
 ---
 
-### 🛠️ TECH STACK & MATERIALS
-- **Core:** Carbon Fiber Micro-frames / Liquid Silk / 3D-Spacer Mesh
-- **Aura:** Controlled Ash Smoke / Neon Violet Kinetic Pulse
-- **Hardware:** Antique Gold Ω Signatures / Magnetic Slide Buckles
-- **Process:** AI-Driven Ideation x High-Precision Engineering
+## ⚡ Manifesto: The Power of Intent
+In a world of noise, we build in silence. **-Dominion-of-Silence-** is not just a repository; it is the architectural framework of the **V7 Collection**. Every thread, every neon pulse, and every shadow is governed by high-precision AI Blueprints.
+
+> *"Authority is unexplained. Decision-making is absolute."*
 
 ---
 
-### 📜 THE BLACKSMITH'S MANIFESTO
-AI is the instrument. The Brand is the Architect. We do not design garments; we engineer the silhouette of power. In **District Ω**, we redefine the boundary between the biological and the mechanical.
+## 🌑 The V7 Collection: Visual Artifacts
+Explore the artifacts of the Ω ecosystem. Each piece is a manifestation of the **Dominion Protocol**.
+
+<p align="center">
+  <img src="URL_รูป_LOOK_1" width="45%" alt="LOOK I">
+  <img src="URL_รูป_LOOK_2" width="45%" alt="LOOK II">
+</p>
+<p align="center">
+  <img src="URL_รูป_LOOK_3" width="45%" alt="LOOK III">
+  <img src="URL_รูป_LOOK_4" width="45%" alt="LOOK IV">
+</p>
 
 ---
 
-### 🔗 CONNECT WITH THE DISTRICT
-- **E-Book:** [Available on meb] (ใส่ลิงก์หลังจากลงขายแล้ว)
-- **Updates:** Follow the progression of `V7: The Archangel`
+## 🛠️ Technical Infrastructure
+This repository hosts the **Master Blueprints (Prompts)** and the **Aesthetic Logic** used to generate the collection. 
 
-`SYSTEM STATUS: OPERATIONAL // SMOKE DENSITY: OPTIMAL // Ω ENCRYPTED`
+- **Material System:** Obsidian Silk, Liquid Carbon Fiber, Neon Violet Pulse.
+- **Environment:** District Ω, Ash Smoke, High-Contrast Shadows.
+- **Framework:** AI-Integrated Architectural Flow.
+
+---
+
+## 💖 Sponsorship & Support
+Join the **Forge of Ω**. Supporting this project grants you access to the forbidden layers of our architecture.
+
+- **[DISTRICT CITIZEN]** - Recognition in the 'Special Thanks' of the **meb** edition.
+- **[THE BLACKSMITH’S APPRENTICE]** - Access to Private Repositories & 4K Artifacts.
+- **[PATRON OF THE VOID]** - Influence the next design evolution.
+
+---
+
+<p align="center">
+  <b>© 2025 Ω LUCIFER NEXUS. All Rights Reserved.</b><br>
+  <i>Architected by LuciferToken666</i>
+</p>
