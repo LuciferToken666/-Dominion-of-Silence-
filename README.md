@@ -18,7 +18,7 @@ In a world of noise, we build in silence. **-Dominion-of-Silence-** is not just 
 Explore the artifacts of the Ω ecosystem. Each piece is a manifestation of the **Dominion Protocol**.
 
 <p align="center">
-  <img src="URL_รูป_LOOK_1" width="45%" alt="LOOK I">
+  <img src="https://raw.githubusercontent.com/LuciferToken666/-Dominion-of-Silence-/refs/heads/main/IMG_2081.jpeg" width="45%" alt="LOOK I">
   <img src="URL_รูป_LOOK_2" width="45%" alt="LOOK II">
 </p>
 <p align="center">
