@@ -19,7 +19,7 @@ Explore the artifacts of the Ω ecosystem. Each piece is a manifestation of the 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/LuciferToken666/-Dominion-of-Silence-/refs/heads/main/IMG_2081.jpeg" width="45%" alt="LOOK I">
-  <img src="URL_รูป_LOOK_2" width="45%" alt="LOOK II">
+  <img src="https://raw.githubusercontent.com/LuciferToken666/-Dominion-of-Silence-/refs/heads/main/IMG_2078.png" width="45%" alt="LOOK II">
 </p>
 <p align="center">
   <img src="URL_รูป_LOOK_3" width="45%" alt="LOOK III">
