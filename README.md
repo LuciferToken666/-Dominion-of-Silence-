@@ -2,7 +2,7 @@
 ### The Visionary AI-Driven Fashion Protocol | Ω LUCIFER NEXUS
 
 <p align="center">
-  <img src="URL_รูปหน้าปก_คอลเลกชัน" width="800" alt="Ω Dominion of Silence Header">
+  <img src="https://raw.githubusercontent.com/LuciferToken666/-Dominion-of-Silence-/refs/heads/main/IMG_2009.jpeg" width="800" alt="Ω Dominion of Silence Header">
 </p>
 
 ---
